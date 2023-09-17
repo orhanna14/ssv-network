@@ -18,7 +18,7 @@ Check the **[Smart contracts](https://docs.ssv.network/developers/smart-contract
 
 ## How to contribute
 
-### Join the Buidlers
+### Join the Builders
 
 Start getting familiar with DVT staking, go to [SSV Discord](https://discord.gg/invite/ssvnetworkofficial) and check out `#dev-support` channel. If you cannot see it claim a role.
 
